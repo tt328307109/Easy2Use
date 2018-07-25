@@ -25,6 +25,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:layout_marginBottom="15dp"
                 android:clickable="true"
                 android:focusable="true"
                 android:foreground="?attr/selectableItemBackground"
@@ -61,6 +62,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:layout_marginBottom="15dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
@@ -93,6 +98,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:clickable="true"
+                android:layout_marginBottom="15dp"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
@@ -125,6 +134,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:clickable="true"
+                android:layout_marginBottom="15dp"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
@@ -157,6 +170,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:clickable="true"
+                android:layout_marginBottom="15dp"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
@@ -189,6 +206,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:clickable="true"
+                android:layout_marginBottom="15dp"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
@@ -221,6 +242,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:clickable="true"
+                android:layout_marginBottom="15dp"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
@@ -253,6 +278,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:clickable="true"
+                android:layout_marginBottom="15dp"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
@@ -286,6 +315,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:clickable="true"
+                android:layout_marginBottom="15dp"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
@@ -318,6 +351,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="6dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:layout_marginBottom="40dp"
+                android:foreground="?attr/selectableItemBackground"
                 app:cardPreventCornerOverlap="true"
                 app:cardUseCompatPadding="true">
 
